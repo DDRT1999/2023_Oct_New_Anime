@@ -1,12 +1,28 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="想当冒险者的女儿到首都当了等级S的冒险者", 想当冒险者的女儿到首都当了等级S的冒险者
-https://raw.githubusercontent.com/DDRT1999/2023_Oct_New_Anime/中文（简体）/想当冒险者的女儿到首都当了等级S的冒险者.m3u
-#EXTINF:-2 group-title="葬送的芙莉莲", 葬送的芙莉莲
-https://raw.githubusercontent.com/DDRT1999/2023_Oct_New_Anime/中文（简体）/葬送的芙莉莲.m3u
-#EXTINF:-3 group-title="香格里拉边境～粪作猎人向神作游戏发起挑战～", 香格里拉边境～粪作猎人向神作游戏发起挑战～
-https://raw.githubusercontent.com/DDRT1999/2023_Oct_New_Anime/中文（简体）/香格里拉边境～粪作猎人向神作游戏发起挑战～.m3u
-#EXTINF:-4 group-title="凹凸魔女的母女故事", 凹凸魔女的母女故事
-https://raw.githubusercontent.com/DDRT1999/2023_Oct_New_Anime/中文（简体）/凹凸魔女的母女故事.m3u
-#EXTINF:-4 group-title="暴食狂战士", 暴食狂战士
-https://raw.githubusercontent.com/DDRT1999/2023_Oct_New_Anime/中文（简体）/暴食狂战士.m3u
+#EXTINF:-1 group-title="想当冒险者的女儿到首都当了等级S的冒险者", 第1集 安吉琳的忧郁
+https://cdn.discordapp.com/attachments/973615798436368425/1158134685717770350/10S_01.mp4
+#EXTINF:-1 group-title="想当冒险者的女儿到首都当了等级S的冒险者", 第2集 赤鬼贝尔格里夫
+https://cdn.discordapp.com/attachments/973615798436368425/1159502178726199326/10S_02.mp4
+#EXTINF:-2 group-title="葬送的芙莉莲", 第1集 冒险结束
+https://cdn.discordapp.com/attachments/973615798436368425/1158127486798942329/10_01.mp4
+#EXTINF:-2 group-title="葬送的芙莉莲", 第2集 不见得一定是靠魔法…
+https://cdn.discordapp.com/attachments/973615798436368425/1158129185479458987/10_02.mp4
+#EXTINF:-2 group-title="葬送的芙莉莲", 第3集 杀人魔法
+https://cdn.discordapp.com/attachments/973615798436368425/1158130977701384364/10_03.mp4
+#EXTINF:-2 group-title="葬送的芙莉莲", 第4集 灵魂长眠之地
+https://cdn.discordapp.com/attachments/973615798436368425/1158132793516240966/10_04.mp4
+#EXTINF:-2 group-title="葬送的芙莉莲", 第5集 死者的幻影
+https://cdn.discordapp.com/attachments/973615798436368425/1159881341983272960/10_05.mp4
+#EXTINF:-3 group-title="香格里拉边境～粪作猎人向神作游戏发起挑战～", 第1集 你是为了什么而玩游戏?
+https://cdn.discordapp.com/attachments/973615798436368425/1159604011616444416/10_01.mp4
+#EXTINF:-3 group-title="香格里拉边境～粪作猎人向神作游戏发起挑战～", 第2集 特异之人
+https://cdn.discordapp.com/attachments/973615798436368425/1160552624320434206/10_02.mp4
+#EXTINF:-4 group-title="凹凸魔女的母女故事", 第1集 亲密母女的凹凸故事 | 奇妙的生命教育故事
+https://cdn.discordapp.com/attachments/973615798436368425/1158124259214884964/10_01.mp4
+#EXTINF:-4 group-title="凹凸魔女的母女故事", 第2集 魔女育儿经常发生的事 | 精灵弟弟的恋爱故事 | 是钓鱼 还是被钓
+https://cdn.discordapp.com/attachments/973615798436368425/1160637802111840396/10_02.mp4
+#EXTINF:-5 group-title="暴食狂战士", 第1集 一无所有之人
+https://cdn.discordapp.com/attachments/973615798436368425/1158125364921511956/10_01.mp4
+#EXTINF:-5 group-title="暴食狂战士", 第2集 饥饿强化
+https://cdn.discordapp.com/attachments/973615798436368425/1160637838157693020/10_02.mp4
